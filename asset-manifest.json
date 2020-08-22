@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-Diploy.github.io/static/css/main.655709c1.chunk.css",
+    "main.js": "/react-Diploy.github.io/static/js/main.27198b7e.chunk.js",
+    "main.js.map": "/react-Diploy.github.io/static/js/main.27198b7e.chunk.js.map",
+    "runtime-main.js": "/react-Diploy.github.io/static/js/runtime-main.7693ce77.js",
+    "runtime-main.js.map": "/react-Diploy.github.io/static/js/runtime-main.7693ce77.js.map",
+    "static/js/2.3f040f9e.chunk.js": "/react-Diploy.github.io/static/js/2.3f040f9e.chunk.js",
+    "static/js/2.3f040f9e.chunk.js.map": "/react-Diploy.github.io/static/js/2.3f040f9e.chunk.js.map",
+    "index.html": "/react-Diploy.github.io/index.html",
+    "precache-manifest.457126be1153818939540a13ed3ea7fe.js": "/react-Diploy.github.io/precache-manifest.457126be1153818939540a13ed3ea7fe.js",
+    "service-worker.js": "/react-Diploy.github.io/service-worker.js",
+    "static/css/main.655709c1.chunk.css.map": "/react-Diploy.github.io/static/css/main.655709c1.chunk.css.map",
+    "static/js/2.3f040f9e.chunk.js.LICENSE.txt": "/react-Diploy.github.io/static/js/2.3f040f9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7693ce77.js",
+    "static/js/2.3f040f9e.chunk.js",
+    "static/css/main.655709c1.chunk.css",
+    "static/js/main.27198b7e.chunk.js"
+  ]
+}
