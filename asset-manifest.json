@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-Diploy.github.io/static/css/main.655709c1.chunk.css",
-    "main.js": "/react-Diploy.github.io/static/js/main.27198b7e.chunk.js",
-    "main.js.map": "/react-Diploy.github.io/static/js/main.27198b7e.chunk.js.map",
-    "runtime-main.js": "/react-Diploy.github.io/static/js/runtime-main.7693ce77.js",
-    "runtime-main.js.map": "/react-Diploy.github.io/static/js/runtime-main.7693ce77.js.map",
-    "static/js/2.3f040f9e.chunk.js": "/react-Diploy.github.io/static/js/2.3f040f9e.chunk.js",
-    "static/js/2.3f040f9e.chunk.js.map": "/react-Diploy.github.io/static/js/2.3f040f9e.chunk.js.map",
-    "index.html": "/react-Diploy.github.io/index.html",
-    "precache-manifest.457126be1153818939540a13ed3ea7fe.js": "/react-Diploy.github.io/precache-manifest.457126be1153818939540a13ed3ea7fe.js",
-    "service-worker.js": "/react-Diploy.github.io/service-worker.js",
-    "static/css/main.655709c1.chunk.css.map": "/react-Diploy.github.io/static/css/main.655709c1.chunk.css.map",
-    "static/js/2.3f040f9e.chunk.js.LICENSE.txt": "/react-Diploy.github.io/static/js/2.3f040f9e.chunk.js.LICENSE.txt"
+    "main.css": "/Pics/static/css/main.655709c1.chunk.css",
+    "main.js": "/Pics/static/js/main.27198b7e.chunk.js",
+    "main.js.map": "/Pics/static/js/main.27198b7e.chunk.js.map",
+    "runtime-main.js": "/Pics/static/js/runtime-main.a96cd830.js",
+    "runtime-main.js.map": "/Pics/static/js/runtime-main.a96cd830.js.map",
+    "static/js/2.3f040f9e.chunk.js": "/Pics/static/js/2.3f040f9e.chunk.js",
+    "static/js/2.3f040f9e.chunk.js.map": "/Pics/static/js/2.3f040f9e.chunk.js.map",
+    "index.html": "/Pics/index.html",
+    "precache-manifest.6b1e773349c72c87095e9adde93eee57.js": "/Pics/precache-manifest.6b1e773349c72c87095e9adde93eee57.js",
+    "service-worker.js": "/Pics/service-worker.js",
+    "static/css/main.655709c1.chunk.css.map": "/Pics/static/css/main.655709c1.chunk.css.map",
+    "static/js/2.3f040f9e.chunk.js.LICENSE.txt": "/Pics/static/js/2.3f040f9e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7693ce77.js",
+    "static/js/runtime-main.a96cd830.js",
     "static/js/2.3f040f9e.chunk.js",
     "static/css/main.655709c1.chunk.css",
     "static/js/main.27198b7e.chunk.js"
